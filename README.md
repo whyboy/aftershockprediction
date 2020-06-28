@@ -5,7 +5,7 @@
 * sklearn 0.21.3
 * pandas 0.20.3
 * numpy 1.15.4
-* matplotlib 2.2.
+* matplotlib 2.1.0
 * pickle 0.7.4
 
 
