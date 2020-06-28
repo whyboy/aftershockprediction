@@ -10,7 +10,7 @@
 
 
 # Data
-The Data file includes 5 subfiles. days_after_mainshock_7 file means the aftershocks that happened within 7 days after the mainshock are seen as postive samples, so as to the other files. Each subfile includes 175 independent earthquakes. Each earthquak is stored in a .csv file. Each row in .csv file is a grid, and also a sample. A sample includes the following columns:
+The Data file includes 5 subfiles. days_after_mainshock_7 file means the aftershocks that happened within 7 days after the mainshock are seen as postive samples, so as to the other files. Each subfile includes 175 independent earthquakes. Each earthquake is stored in a .csv file. Each row in .csv file is a grid, and also a sample. A sample includes the following columns:
 * x: the position of the grid centre relative to the focus of the mainshock
 * y: the position of the grid centre relative to the focus of the mainshock
 * mainshock_mag: the mainshock magnitude
